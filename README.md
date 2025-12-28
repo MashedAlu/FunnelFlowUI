@@ -79,12 +79,8 @@ The backend automatically appends these IDs to your configured `N8N_WEBHOOK_URL`
 
 ## Documentation
 
-See [replit.md](replit.md) for complete documentation including:
 - API route details
 - Error handling
 - Production deployment
 - Troubleshooting guide
 
-## License
-
-MIT
